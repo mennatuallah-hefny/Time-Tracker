@@ -1,7 +1,7 @@
-# CLI Automation: Time Tracker in Rust
+# Time Tracker in Rust
 
 ## Overview
-The Time Tracker CLI application is a Rust-powered tool designed to help users effectively track and report time spent on various tasks. Whether you’re managing your personal projects or keeping tabs on your work hours, this app provides a seamless way to organize your time.
+The Time Tracker CLI application is a Rust-powered tool designed to help users track and report time spent on various tasks. 
 
 ## Key Features
 
