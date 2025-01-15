@@ -41,29 +41,5 @@ Export logs for external analysis in CSV format:
 timetracker export --format csv
 ```
 
-## Installation
-1. Ensure you have [Rust](https://www.rust-lang.org/) installed on your system.
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/timetracker.git
-   ```
-3. Navigate to the project directory:
-   ```bash
-   cd timetracker
-   ```
-4. Build the project:
-   ```bash
-   cargo build --release
-   ```
-
-## Usage
-1. Navigate to the directory containing the compiled binary:
-   ```bash
-   cd target/release
-   ```
-2. Start using the Time Tracker CLI:
-   ```bash
-   ./timetracker start "Your Task Name"
-   ```
 
 
